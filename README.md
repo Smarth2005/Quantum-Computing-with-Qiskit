@@ -8,3 +8,5 @@
 2. [↗️](https://gist.github.com/IvanIsCoding/89356c91607ed73fec75f7b0db33cf25) Multi-Qubit Circuits in Qiskit 
 3. [↗️](https://quantum.cloud.ibm.com/docs/en/guides/quick-start) Statevector Sampler
 4. [↗️](https://quantum.cloud.ibm.com/docs/en/guides/hello-world) Run your first circuit on Hardware
+5. [↗️](https://github.com/Qiskit/textbook/tree/aebdd2bc86ddb7a79dd8441d52c839d312ffafbb/notebooks/ch-algorithms) Quantum Protocols and Quantum Algorithms
+6. [↗️](https://github.com/Qiskit/textbook/tree/aebdd2bc86ddb7a79dd8441d52c839d312ffafbb/notebooks/ch-demos) Games and Demos

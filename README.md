@@ -10,3 +10,4 @@
 4. [↗️](https://quantum.cloud.ibm.com/docs/en/guides/hello-world) Run your first circuit on Hardware
 5. [↗️](https://github.com/Qiskit/textbook/tree/aebdd2bc86ddb7a79dd8441d52c839d312ffafbb/notebooks/ch-algorithms) Quantum Protocols and Quantum Algorithms
 6. [↗️](https://github.com/Qiskit/textbook/tree/aebdd2bc86ddb7a79dd8441d52c839d312ffafbb/notebooks/ch-demos) Games and Demos
+7. [↗️](https://github.com/qmunitytech/Tutorials/blob/main/intermediate/The%20BB84%20Quantum%20Cryptography%20algorithm.ipynb) The BB84 Quantum Cryptography Algorithm
